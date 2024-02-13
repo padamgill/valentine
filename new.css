@@ -35,7 +35,7 @@ canvas {
   max-width: 50%;
   transform: translate(-50%, -50%);
   font-family: sans-serif;
-  font-size: 10vh;
+  font-size: 7vh;
   font-weight: bold;
   pointer-events: none;
   p-transform: uppercase;
