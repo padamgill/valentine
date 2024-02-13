@@ -58,11 +58,11 @@ canvas {
 .text {
   font-size: 150%;
   margin-bottom: 10%;
-  width: 60%;
-  height: 80%;
+  width: 80%;
+  height: 90%;
   justify-content: center;
   color: white;
-  margin-left: 20%;
+  margin-left: 10%;
   font-family: cursive;
   font-weight: 900;
 }
